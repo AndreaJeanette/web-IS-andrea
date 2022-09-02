@@ -1,3 +1,42 @@
-div{
-    
+body{
+    background-color: #ede9e8;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#contenido{
+    background-color: #DBD2CF;
+    text-align: justify;
+    border-radius: 3%;
+
+}
+#Titulo{
+    background-color: #9db6cf;
+    text-align: center;
+    border-radius: 20%;
+}
+#imag{
+    text-align: center;
+}
+
+#rep{
+    background-color: #DBD2CF ;
+    border-radius: 3%;
+    float: left;
+    width: 200px;
+    text-align: center;
+}
+
+#info{
+    float: left;
+    background-color: #d4e4ed;
+    text-align: center;
+    min-height: 210px;
+    border-radius: 3%;
+
+
+}
+
+.clearfix{
+    clear: both;
 }
